@@ -7,3 +7,4 @@
 <strong>" git pull "</strong> 로 한번 업데이트를 해준다음 push 가능
 
 ![2](./img/3/2.jpg)
+  
